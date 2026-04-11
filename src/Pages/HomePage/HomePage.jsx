@@ -14,6 +14,7 @@ const HomePage = () => {
               <div className='flex justify-center md:justify-start ' >
                 <button className="btn btn-success mt-8 text-white ">
                   View the List
+                </button>
               </div>
             </div>
           </div>
